@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mysurpriseforsara/static/css/main.dd403d86.css",
+    "main.js": "/mysurpriseforsara/static/js/main.8bfc78e4.js",
+    "static/js/453.fc915d25.chunk.js": "/mysurpriseforsara/static/js/453.fc915d25.chunk.js",
+    "static/media/Inkfree.ttf": "/mysurpriseforsara/static/media/Inkfree.33a773f632e6975853f9.ttf",
+    "static/media/Feilla.ttf": "/mysurpriseforsara/static/media/Feilla.c5329ff1b2e4b39de0e9.ttf",
+    "index.html": "/mysurpriseforsara/index.html",
+    "main.dd403d86.css.map": "/mysurpriseforsara/static/css/main.dd403d86.css.map",
+    "main.8bfc78e4.js.map": "/mysurpriseforsara/static/js/main.8bfc78e4.js.map",
+    "453.fc915d25.chunk.js.map": "/mysurpriseforsara/static/js/453.fc915d25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd403d86.css",
+    "static/js/main.8bfc78e4.js"
+  ]
+}
